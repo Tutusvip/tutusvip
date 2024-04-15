@@ -1,4 +1,5 @@
-### Seja bem vindo
+### Seja bem vindo ao meu github
+### Nome: Thales Sousa
 
 <div>
     <a href="https://github.com/tutusvip">
